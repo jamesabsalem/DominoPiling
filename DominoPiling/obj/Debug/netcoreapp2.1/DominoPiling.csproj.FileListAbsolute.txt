@@ -1,0 +1,11 @@
+F:\Tutorial\Contest\DominoPiling\DominoPiling\bin\Debug\netcoreapp2.1\DominoPiling.deps.json
+F:\Tutorial\Contest\DominoPiling\DominoPiling\bin\Debug\netcoreapp2.1\DominoPiling.runtimeconfig.json
+F:\Tutorial\Contest\DominoPiling\DominoPiling\bin\Debug\netcoreapp2.1\DominoPiling.runtimeconfig.dev.json
+F:\Tutorial\Contest\DominoPiling\DominoPiling\bin\Debug\netcoreapp2.1\DominoPiling.dll
+F:\Tutorial\Contest\DominoPiling\DominoPiling\bin\Debug\netcoreapp2.1\DominoPiling.pdb
+F:\Tutorial\Contest\DominoPiling\DominoPiling\obj\Debug\netcoreapp2.1\DominoPiling.csprojAssemblyReference.cache
+F:\Tutorial\Contest\DominoPiling\DominoPiling\obj\Debug\netcoreapp2.1\DominoPiling.csproj.CoreCompileInputs.cache
+F:\Tutorial\Contest\DominoPiling\DominoPiling\obj\Debug\netcoreapp2.1\DominoPiling.AssemblyInfoInputs.cache
+F:\Tutorial\Contest\DominoPiling\DominoPiling\obj\Debug\netcoreapp2.1\DominoPiling.AssemblyInfo.cs
+F:\Tutorial\Contest\DominoPiling\DominoPiling\obj\Debug\netcoreapp2.1\DominoPiling.dll
+F:\Tutorial\Contest\DominoPiling\DominoPiling\obj\Debug\netcoreapp2.1\DominoPiling.pdb
